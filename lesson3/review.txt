@@ -1,0 +1,4 @@
+App reactjs
+ -Class Component
+ -Function Component
+ -props: chuyển dữ liệu từ Component 
